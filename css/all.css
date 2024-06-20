@@ -274,7 +274,7 @@ img {
 .quote {
   padding: 59px 71px;
   position: relative;
-  min-width: 670px;
+  max-width: 670px;
 }
 
 .title h2 {
